@@ -80,7 +80,7 @@ if (isset($_POST['signup'])){
 
 ?>
 
-<title>User Page</title>
+<title>Visitor Page</title>
 <center><h1>Visitor Page</h1></center>
 <br>
 
